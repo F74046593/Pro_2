@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>未命名.png</file>
+        <file>ee.png</file>
+        <file>音符(紅).png</file>
+        <file>音符(藍).png</file>
+        <file>鼓面.png</file>
+    </qresource>
+</RCC>
